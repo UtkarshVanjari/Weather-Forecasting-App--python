@@ -37,5 +37,18 @@ Weather API (for example: OpenWeatherMap) — for fetching live data.
 .gitignore to exclude environment, keys/secrets.
 
 
+
 🧭 How to Run
+
+1. Clone this repository:
+https://github.com/UtkarshVanjari/Weather-Forecasting-App--python/tree/main
+
+2. Paste all the code into Vs Code without any case sensative mistake 
+
+3. simply Run the Code
+
+
+
+   YAhhhhhh.... Your Weather Forcasting app is Radyy ...🚀
+
 
